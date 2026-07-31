@@ -1,0 +1,8 @@
+body{font-family:Arial,sans-serif;margin:0;line-height:1.6;background:#f5f5f5;color:#222}
+header{background:#0b2e6d;color:#fff;padding:25px;text-align:center}
+nav a{color:#fff;margin:0 10px;text-decoration:none}
+.hero{background:#d4af37;color:#0b2e6d;padding:70px 20px;text-align:center}
+section{max-width:1100px;margin:auto;padding:40px 20px;background:#fff;margin-top:20px}
+button{background:#0b2e6d;color:#fff;border:none;padding:12px 20px;cursor:pointer}
+footer{background:#111;color:#fff;text-align:center;padding:20px;margin-top:30px}
+input,textarea{width:100%;padding:10px}
